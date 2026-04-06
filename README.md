@@ -1,5 +1,7 @@
 # ✨ Elyzion
 
+Official CA : JCnZ5C9cLQV7wxmUyBwqdEUKKrDXcGUPCXriw1VZpump
+
 **Elyzion** uses advanced vision-language models to streamline tasks.  
 From robotics to desktop operations — everything made easier.
 
